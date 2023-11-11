@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moein</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
-- 🔭 I’m currently working on <a href="https://moein1378.github.io/covid-tracker/#/" target="_blank">covid-tracker</a>
-
-- 🌱 I’m currently learning **Vue js and its derivatives...**
-
-- 💬 Ask me about **Frontend Web Development**
-
-- 📫 How to reach me **moein.mousavi1378@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18133340/moein-mousavipour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="moein mousavipour" height="30" width="40" /></a>
