@@ -6,7 +6,7 @@
 
 Building maintainable, testable, and high-performance web applications for fintech, AI, healthcare, and real-time products.
 
-[LinkedIn](https://www.linkedin.com/in/moein-mousavipour) ·
+[LinkedIn](https://www.linkedin.com/in/moein-mousavipour-33a271231/) ·
 [Stack Overflow](https://stackoverflow.com/users/18133340/moein-mousavipour) ·
 [Email](mailto:moein.mousavi1378@gmail.com)
 
