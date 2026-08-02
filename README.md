@@ -4,7 +4,7 @@
 
 ### Senior Front-End Developer · Vue.js · Nuxt.js · TypeScript
 
-Building maintainable, testable, and high-performance web applications for fintech, AI, healthcare, and real-time products.
+I design reliable, testable, and high-performance front-end systems for fintech, AI, healthcare, and real-time products.
 
 [LinkedIn](https://www.linkedin.com/in/moein-mousavipour-33a271231/) ·
 [Stack Overflow](https://stackoverflow.com/users/18133340/moein-mousavipour) ·
@@ -14,134 +14,80 @@ Building maintainable, testable, and high-performance web applications for finte
 
 ---
 
-## About Me
+## About
 
-I am a Senior Front-End Developer with 5+ years of experience designing and delivering production-grade web applications.
+I am a Senior Front-End Developer with 5+ years of experience building production web applications where architecture, runtime reliability, automated testing, and long-term maintainability matter.
 
-My work focuses on front-end architecture, automated testing, real-time communication, performance optimization, and creating maintainable engineering workflows for growing development teams.
+At **Kifpool.me**, I work on fintech and cryptocurrency products, including trading interfaces, data-intensive dashboards, reusable front-end systems, GraphQL integrations, automated testing, performance optimization, and engineering standards.
 
-I currently work on fintech and cryptocurrency products at **Kifpool.me**, where I contribute to architecture, reusable systems, automated testing, code review, performance, GraphQL integrations, and real-time trading interfaces.
+Before that, I led front-end delivery across AI-powered monitoring, remote rehabilitation, and real-time communication products at **Parstech AI**.
 
-* Based in Mashhad, Iran
-* Interested in international remote and relocation opportunities
-* Focused on Vue.js, Nuxt.js, TypeScript, architecture, and engineering quality
-* Experienced in fintech, AI, healthcare, monitoring, and real-time products
+## Engineering Focus
 
-## Core Expertise
+- **Front-End Architecture:** modular and feature-based design, monorepos, reusable systems, shared packages, and type-safe boundaries
+- **Reliability and Concurrency:** request cancellation, race-condition prevention, lifecycle control, failure handling, and predictable asynchronous workflows
+- **Real-Time Systems:** GraphQL subscriptions, WebSocket, Socket.IO, WebRTC, live dashboards, notifications, and streaming interfaces
+- **Quality Engineering:** TDD, unit/component/integration/E2E testing, CI pipelines, regression prevention, and code review
+- **Performance:** Core Web Vitals, Lighthouse, runtime and memory analysis, bundle optimization, and technical SEO
+- **Browser AI and Visualization:** MediaPipe landmarks, motion visualization, TradingView integrations, ECharts, ApexCharts, and Three.js
+- **Engineering Leadership:** architecture decisions, coding conventions, pull-request reviews, mentoring, and cross-functional delivery
+- **AI-Assisted Engineering:** structured project context, agent rules and skills, Graphify, RTK, and repeatable prompting workflows
 
-### Front-End Architecture
+## Selected Engineering Evidence
 
-* Modular and feature-based architectures
-* Monorepo and shared-package strategies
-* Reusable component systems
-* Scalable state-management patterns
-* Type-safe API integration
-* Architecture and coding conventions
+- Maintained approximately **1,200 automated tests** for a production fintech platform using a TDD-oriented workflow.
+- Increased test coverage from approximately **40% to 96%** across two AI products and helped reduce reported front-end defects by approximately **40%**.
+- Integrated **TradingView Advanced Charts** with a custom historical and real-time market-data feed.
+- Built browser-based real-time workflows with **WebRTC, WebSocket, Socket.IO, GraphQL subscriptions, and MediaPipe**.
+- Reviewed high-volume pull requests, defined shared implementation standards, and mentored front-end developers.
 
-### Quality and Testing
+## Core Stack
 
-* Test-Driven Development
-* Unit, component, integration, and end-to-end testing
-* Vitest, Jest, and Cypress
-* Pull-request review and quality standards
-* Continuous integration workflows
-* Regression prevention and defect reduction
-
-### Real-Time and Data-Intensive Applications
-
-* WebSocket and Socket.IO
-* WebRTC communication
-* GraphQL and Apollo Client
-* Real-time dashboards and notifications
-* Trading and monitoring interfaces
-* Data visualization and interactive charts
-
-### Performance and Reliability
-
-* Lighthouse and Core Web Vitals
-* Bundle and runtime analysis
-* Technical SEO
-* Request cancellation and error handling
-* Memory and background-task optimization
-* Sentry and production observability
-
-## Technology Stack
-
-**Languages**
-
+**Languages**  
 `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `SCSS`
 
-**Front-End**
+**Vue Ecosystem**  
+`Vue.js` · `Nuxt.js` · `Pinia` · `Vuex` · `Tailwind CSS` · `Vuetify` · `Quasar` · `PrimeVue` · `shadcn-vue`
 
-`Vue.js` · `Nuxt.js` · `Pinia` · `Vuex` · `Tailwind CSS` · `Vuetify` · `Quasar` · `PrimeVue`
-
-**API and Real-Time**
-
+**Data and Real-Time**  
 `REST APIs` · `GraphQL` · `Apollo Client` · `Orval` · `WebSocket` · `Socket.IO` · `WebRTC`
 
-**Testing and Quality**
+**Testing and Observability**  
+`Vitest` · `Jest` · `Cypress` · `Sentry` · `Lighthouse` · `Vue Devtools`
 
-`Vitest` · `Jest` · `Cypress` · `TDD` · `ESLint` · `Code Review`
+**Visualization and Browser Capabilities**  
+`MediaPipe` · `TradingView Advanced Charts` · `ECharts` · `ApexCharts` · `Three.js` · `Browser Extensions`
 
-**Visualization**
-
-`TradingView Advanced Charts` · `ECharts` · `ApexCharts` · `Three.js`
-
-**Development and Delivery**
-
+**Delivery and Tooling**  
 `Git` · `Docker` · `Docker Compose` · `GitLab CI` · `Verdaccio` · `npm Package Development`
 
-## Selected Professional Experience
+## Product Domains
 
-### Fintech and Trading
-
-Developing cryptocurrency dashboards, trading interfaces, reusable systems, GraphQL workflows, automated tests, and real-time market-data integrations.
-
-### AI-Powered Monitoring
-
-Built intelligent monitoring dashboards involving live video, camera feeds, notifications, restricted-area detection, traffic analysis, and real-time communication.
-
-### Healthcare Technology
-
-Developed remote rehabilitation workflows involving therapist–patient communication, online sessions, MediaPipe body landmarks, movement visualization, and exercise monitoring.
-
-### Engineering Leadership
-
-Experienced in front-end architecture, pull-request review, mentoring developers, defining coding conventions, improving test coverage, and collaborating with back-end, QA, UI/UX, and DevOps teams.
-
-## Current Open-Source Direction
-
-I am currently building public reference projects around:
-
-* Production-grade Vue and Nuxt architecture
-* Schema-driven reusable UI systems
-* Real-time dashboards and communication
-* Automated testing and CI pipelines
-* Type-safe API integration
-* Front-end performance engineering
+`Fintech and Trading` · `AI Monitoring` · `Healthcare Technology` · `Real-Time Communication` · `Data-Intensive Dashboards`
 
 ## Engineering Principles
 
-> Architecture should make change easier, not merely make code look organized.
+> Architecture should make change safer and easier.
 
-> Tests should protect critical behavior, not only increase coverage numbers.
+> Tests should protect critical behavior, not merely increase coverage.
 
-> Performance should be measured before and after every optimization.
+> Async work needs explicit ownership, cancellation, and failure policies.
 
 > Documentation is part of the implementation.
 
 ## Contact
 
-For collaboration, senior front-end opportunities, or technical discussions:
+- LinkedIn: [Moein Mousavipour](https://www.linkedin.com/in/moein-mousavipour-33a271231/)
+- Stack Overflow: [Moein Mousavipour](https://stackoverflow.com/users/18133340/moein-mousavipour)
+- Email: [moein.mousavi1378@gmail.com](mailto:moein.mousavi1378@gmail.com)
 
-* LinkedIn: [moein-mousavipour](https://www.linkedin.com/in/moein-mousavipour)
-* Stack Overflow: [Moein Mousavipour](https://stackoverflow.com/users/18133340/moein-mousavipour)
-* Email: [moein.mousavi1378@gmail.com](mailto:moein.mousavi1378@gmail.com)
+<!--
+Add this section only after at least two polished repositories are public.
 
----
+## Selected Open Source
 
-<div align="center">
-
-**Vue.js · Nuxt.js · TypeScript · Architecture · Testing · Real-Time Systems**
-
-</div>
+| Project | Engineering thesis | Stack |
+| --- | --- | --- |
+| [Project Name](repository-url) | One precise sentence describing the problem and senior-level idea. | Vue, TypeScript, ... |
+| [Project Name](repository-url) | One precise sentence describing the problem and senior-level idea. | Nuxt, Web Workers, ... |
+-->
